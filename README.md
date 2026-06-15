@@ -1,5 +1,16 @@
 # Bird Bounding Box Regressor (MobileNetV2)
 
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.18-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-3.9-D00000?logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1.x-013243?logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-Image%20Processing-5C3EE8?logo=opencv&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?logo=plotly&logoColor=white)
+![Dataset](https://img.shields.io/badge/Dataset-CUB--200--2010-orange)
+![Task](https://img.shields.io/badge/Task-Object%20Localization-9C27B0)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 A transfer-learning model that localizes a single bird within an image by predicting its bounding box coordinates. Built on top of **MobileNetV2** (ImageNet pretrained) with a custom regression head, trained on the **Caltech Birds-2010** dataset.
 
 ## Overview
