@@ -34,7 +34,7 @@ This project treats object localization as a regression problem: given an image 
 
 ### Loss Curve
 
-![Training and validation loss](results/loss_curve.png)
+![Training and validation loss](op.png)
 
 ## Results
 
