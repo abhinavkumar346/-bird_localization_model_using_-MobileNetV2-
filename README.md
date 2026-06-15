@@ -8,7 +8,7 @@ This project treats object localization as a regression problem: given an image 
 
 ## Model Architecture
 
-![Model architecture](results/architecture.png)
+![Model architecture](bird_bbox_model_architecture.png)
 
 - **Backbone:** MobileNetV2 (`include_top=False`, ImageNet weights, fully fine-tuned)
 - **Head:**
